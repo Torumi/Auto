@@ -26,7 +26,3 @@ class Auto:
             print(self.cena - cenas_zaudesana)
         else:
             print(100)
-
-a1 = Auto('123',  '123', 2018, 100)
-
-a1.vertiba()
